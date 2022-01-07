@@ -1,2 +1,2 @@
 # Proyecto-Js
-Libreria
+Libreria slider realizado con JS.
